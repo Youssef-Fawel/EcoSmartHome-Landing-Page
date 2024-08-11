@@ -7,8 +7,10 @@ Welcome to the EcoSmartHome landing page project! This project focuses on creati
 The EcoSmartHome landing page is designed to provide users with information about sustainable home solutions. It features a clean and modern design, showcasing various eco-friendly products and practices that promote energy efficiency and environmental responsibility. 
 
 Through this project, you'll learn to:
--Create a Clean Layout: Organize content effectively with columns and sections to present information clearly.
+Create a Clean Layout: Organize content effectively with columns and sections to present information clearly.
+
 Incorporate Visual Elements: Use images, icons, and other media to enhance the visual appeal and communicate your message.
+
 Design a User-Friendly Interface: Ensure the landing page is easy to navigate and provides a seamless user experience.
 
 -Key Features:
