@@ -1,9 +1,9 @@
 -EcoSmartHome Landing Page
 
--Overview
+-Overview:
 Welcome to the EcoSmartHome landing page project! This project focuses on creating an engaging and informative landing page for an environmentally friendly home solutions website. Designed for beginners, this project leverages basic HTML and CSS skills to build a visually appealing page that highlights sustainable living practices and eco-friendly products.
 
--Project Description
+-Project Description:
 The EcoSmartHome landing page is designed to provide users with information about sustainable home solutions. It features a clean and modern design, showcasing various eco-friendly products and practices that promote energy efficiency and environmental responsibility. 
 
 Through this project, you'll learn to:
