@@ -17,6 +17,7 @@ Incorporate Visual Elements: Use images, icons, and other media to enhance the v
 Design a User-Friendly Interface: Ensure the landing page is easy to navigate and provides a seamless user experience.
 
 -Key Features:
+
 Responsive Design: The landing page is optimized for both desktop and mobile devices, ensuring a consistent look and feel across different screen sizes.
 
 Eco-Friendly Theme: The design incorporates green colors and eco-themed imagery to align with the focus on sustainable living.
